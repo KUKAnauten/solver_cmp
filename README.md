@@ -7,4 +7,4 @@ Added KDL_LMA.
 
 Currently comparing KDL_NR_JL, KDL_LMA and TRAC-IK.
 
-solver_cmp.txt holds the results from the test using the iiwa_nadelhalterung robot_description.
+*solver_cmp.txt* holds the results from the test using the iiwa_nadelhalterung robot_description.
